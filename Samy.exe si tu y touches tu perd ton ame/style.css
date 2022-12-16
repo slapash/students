@@ -1,0 +1,16 @@
+table, td, th{
+    border: 2px solid black ;
+    
+}
+table{
+    border-collapse: collapse;
+}
+th, td{
+    padding: 15px;  
+    background-color: crimson;
+}
+a{
+    text-decoration: none;
+    color: purple;
+    
+}
